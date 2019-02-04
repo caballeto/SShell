@@ -1,8 +1,7 @@
 # SShell
 
 SShell (Simple Shell) is an implementation of simple unix-like shell using 
-C/C++ APIs.
-
+C/C++.
 ## Commands
 
 Implemented commands are presented below. If command is unknown 

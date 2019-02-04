@@ -52,6 +52,7 @@ string getFileContent(const string& path) {
   if (file.is_open()) {
     while (getline(file, line))
       ss << line << '\n';
+    file.close();
     return ss.str();
   } else {
     throw invalid_argument("No such file.");

@@ -1,0 +1,3 @@
+/home/caballeto/CLionProjects/Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/caballeto/CLionProjects/Shell/cmake-build-debug/CMakeFiles/Shell.dir
+/home/caballeto/CLionProjects/Shell/cmake-build-debug/CMakeFiles/edit_cache.dir

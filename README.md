@@ -21,5 +21,7 @@ application will try to execute it in default bash.
 Run with command:
 
 ```
+cmake CMakeLists.txt
+make
 ./bin/main 
 ```
